@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 
 <div style="display:flex;justify-content:center;align-items: start; gap:2px">
-<a href="https://github.com/bewburats/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bewburats&show_icons=true&include_all_commits=true&theme=buefy&&hide=contribs,prs&hide_border=true&bg_color=DEG,b35778,a85582,964f90&title_color=ffff&text_color=ffff&icon_color=ffdc80&hide_border=true" alt="Burats's github stats" /></a>
 <a href="https://github.com/bewburats/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bewburats&layout=compact&hide_border=true&bg_color=DEG,b35778,a85582,964f90&title_color=ffff&text_color=ffff" /></a> 
+ <a href="https://github.com/bewburats/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bewburats&show_icons=true&include_all_commits=true&theme=buefy&&hide=contribs,prs&hide_border=true&bg_color=DEG,b35778,a85582,964f90&title_color=ffff&text_color=ffff&icon_color=ffdc80&hide_border=true" alt="Burats's github stats" /></a> 
+
 </div>
 
 <hr>
