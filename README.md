@@ -21,24 +21,24 @@ Here are some ideas to get you started:
 <img src="logo1.png"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/buratsakorn-boonma-35258b199/">
+    <img src="https://img.shields.io/badge/-Buratsakorn%20Boonma-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/bewyour.concept/">
+    <img src="https://img.shields.io/badge/-bewyour.concept-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ <a href="https://www.behance.net/buratsboonma">
+    <img src="https://img.shields.io/badge/-Buratsakorn%20Boonma-0040ff?style=for-the-badge&logo=behance" alt="LinkedIn Badge"/>
   </a>
- <br>
-  <img src="https://komarev.com/ghpvc/?username=bewburats&style=flat-square&color=blue" alt=""/>
-  
 </div>
 
-
 <br>
+<div align="center">
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bewburats&show_icons=true&hide=contribs,prs&bg_color=DEG,E7C6FF,C8B6FF,B8C0FF&title_color=231c35&text_color=2a2b47&icon_color=7209b7) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bewburats&show_icons=true&hide=contribs,prs&bg_color=DEG,b35778,a85582,964f90&title_color=ffff&text_color=ffff&icon_color=ffdc80)
+
+</div>
+
 
 
 
