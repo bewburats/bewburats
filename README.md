@@ -1,4 +1,4 @@
-## Hi  , I'm Bew ! Welcome to my space .
+## Hi  , I'm Bew ! Welcome to my space . 🎨 ☘️
 
 
 
@@ -20,7 +20,18 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="logo1.png"/>
 </div>
-<div id="badges" align="center">
+
+#### GitHub :
+
+ <a href="https://github.com/bewburats/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bewburats&show_icons=true&include_all_commits=true&theme=buefy&&hide=contribs,prshide_border=true&bg_color=DEG,b35778,a85582,964f90&title_color=ffff&text_color=ffff&icon_color=ffdc80" alt="Anurag's github stats" /></a> | <a href="https://github.com/bewburats/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bewburats&layout=compact&theme=buefy&hide_border=true&bg_color=DEG,b35778,a85582,964f90&title_color=ffff&text_color=ffff" /></a> |
+<hr>
+
+#### Contact :
+
+<div id="badges" >
+<a href="https://www.linkedin.com/in/buratsakorn-boonma-35258b199/">
+    <img src="https://img.shields.io/badge/-buratsakorn.boon@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/buratsakorn-boonma-35258b199/">
     <img src="https://img.shields.io/badge/-Buratsakorn%20Boonma-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
@@ -33,11 +44,8 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bewburats&show_icons=true&hide=contribs,prs&bg_color=DEG,b35778,a85582,964f90&title_color=ffff&text_color=ffff&icon_color=ffdc80)
 
-</div>
 
 
 
